@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">lab07</string>
+    <string name="btn_select">Select</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="edit_key">Key</string>
+    <string name="edit_value">Value</string>
+    <string name="txt_key">Database key</string>
+    <string name="txt_value">Value of that key</string>
 </resources>
